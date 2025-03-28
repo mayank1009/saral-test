@@ -20,7 +20,7 @@ A modern book management application built with Next.js and Prisma, featuring fu
 ## Setup
 
 1. Clone the repository:
-    git clone https://github.com/yourusername/book-manager.git
+    git clone https://github.com/mayank1009/saral-test.git
     cd book-manager
 
 2. Install dependencies:
